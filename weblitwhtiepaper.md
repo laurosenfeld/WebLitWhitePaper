@@ -26,9 +26,15 @@
 
 The Web is for everyone so, in essence, this Web literacies paper is also for everyone. It is, however, likely to be of *particular* use and value to educators and academics looking for a reference point and framework to help develop Web literacies in themselves and others. 
 
-When we mention ‘we’ in this white paper we’re talking about not only about Mozilla, but the community of people who believe in Constructivism, who believe in [Connected Learning][4], and who believe in learning through *making* and *doing*. In other words, ‘we’ means ‘you’ as much as ‘us’! We’re people who believe in the practical application of knowledge through project-based and interest-based learning. 
+When we mention ‘we’ in this white paper we’re talking about not only about Mozilla, but the community of people who believe in Constructivism, who believe in [Connected Learning] [4], and who believe in learning through *making* and *doing*. In other words, ‘we’ means ‘you’ as much as ‘us’! We’re people who believe in the practical application of knowledge through project-based and interest-based learning. 
 
 To help make the following a bit more tangible, let’s consider three scenarios: 
+¿Para quién es esto?
+
+*La Web es para todos, así que, en esencia, este escrito sobre alfabetización web también es para todos. De todos modos, es probable que este paper resulte particularmente valioso y útil para educadores y académicos que estén buscando un punto de referencia y un marco que los ayude a desarrollar alfabetizaciones para si mismos y para otros.
+Cuando en este escrrito hablamos de “nosotros” nos referimos, no sólo a Mozilla, sino a la comunidad de personas que creen en el Constructivismo, que creen en el [“Connected Learning”] [4], y que creen que aprendemos creando y haciendo. En otras palabras, “nosotros” significa tanto “ustedes” como “todos nosotros en mozilla”. Nosotros somos personas que creemos en la aplicación práctica de los conocmientos dados a través del aprendizaje centrado en proyectos e intereses.
+
+Para ayudar a que todo esto se vuelva un poco más tangible, consideremos tres escenarios:*
 
 1.  Leo, 15, is interested in expanding his understanding of coding, but more than anything he wants to make some cool stuff. He visits the [Mozilla Webmaker][5] site to make some projects and earn some badges. Then he adds these badges to his resumé to represent his new-found skills. Leo wants to connect with other youth interested in tech, so he joins a [CoderDojo][6] meetup in New York. He also attends a local hackjam and likes the group there after which he becomes a member and takes free HTML classes every Monday.
 2.  Martha, 46, has been teaching for twenty years; she is invested in helping her students learn skills that are both current and relevant. A recommendation from a colleague tips her off to Mozilla’s Webmaker site. There she learns about Webmaking for the first time. While she’s on the site she finds curriculum to use in her classroom as well as a global community of innovative teachers with whom she can share ideas.
@@ -286,3 +292,4 @@ Wing, J.M. (2008) ‘Computational Thinking and Thinking about Thinking,’ Phil
  [10]: http://farm9.staticflickr.com/8471/8122757190_f5b763b4e3_z.jpg
  [11]: http://openbadges.org
  [12]: https://farm9.staticflickr.com/8221/8344676771_3af86475b0_z.jpg  
+
