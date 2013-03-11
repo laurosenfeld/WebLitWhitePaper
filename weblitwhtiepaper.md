@@ -1,3 +1,4 @@
+ESTO ES UNA PRUEBA DE LAURA
 [Permalink](https://wiki.mozilla.org/Learning/WebLiteraciesWhitePaper "Permalink to Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper - MozillaWiki")
 
 # Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper - MozillaWiki
@@ -6,7 +7,7 @@
 
 **This is a legacy page for reference purposes.**
 
-**We're proposing a new Learning Standard for Web Literacy**
+**We're proposing a new Learning Standard for Web Literacy**  
 **[Find out more &gt;&gt;&gt;][1]**
 
 * * *
@@ -38,10 +39,9 @@ To help make the following a bit more tangible, let’s consider three scenarios
 
 1.  Leo, 15, is interested in expanding his understanding of coding, but more than anything he wants to make some cool stuff. He visits the [Mozilla Webmaker][5] site to make some projects and earn some badges. Then he adds these badges to his resumé to represent his new-found skills. Leo wants to connect with other youth interested in tech, so he joins a [CoderDojo][6] meetup in New York. He also attends a local hackjam and likes the group there after which he becomes a member and takes free HTML classes every Monday.
 
-	>1. Leo, de quince años, está interesado en expandir su conocimiento sobre programación, pero más que nada quiere crear algo divertido. Visita el sitio de [Mozilla Webmaker][5] para realizar algunos proyectos y ganar algunas insignias[^2]. Luego, agrega estas insignias a su currículum para que queden representadas sus nuevas habilidades. Leo quiere conectarse con otros jóvenes interesados en tecnología, así que se suma a la reunión de  un [CoderDojo][5] en Nueva York. También asiste a una hackjam y, como le gusta el grupo, se convierte en un miembro del mismo y todos los lunes toma clases de HTML gratis.
+>1. Leo, de quince años, está interesado en expandir su conocimiento sobre programación, pero más que nada quiere crear algo divertido. Visita el sitio de [Mozilla Webmaker][5] para realizar algunos proyectos y ganar algunas insignias[^2]. Luego, agrega estas insignias a su currículum para que queden representadas sus nuevas habilidades. Leo quiere conectarse con otros jóvenes interesados en tecnología, así que se suma a la reunión de  un [CoderDojo][5] en Nueva York. También asiste a una hackjam y, como le gusta el grupo, se convierte en un miembro del mismo y todos los lunes toma clases de HTML gratis.
 
 2.  Martha, 46, has been teaching for twenty years; she is invested in helping her students learn skills that are both current and relevant. A recommendation from a colleague tips her off to Mozilla’s Webmaker site. There she learns about Webmaking for the first time. While she’s on the site she finds curriculum to use in her classroom as well as a global community of innovative teachers with whom she can share ideas.
-	> 2. Marta, de cuarenta y seis años, enseñó durante veinte años; se dedicó a ayudar a sus estidantes a aprender habilidades que son tanto relevantes como actuales. Un colega le recomendó que conociera el sitio de Webmakers de Mozilla. Allí ella se entera sobre “Webmaking” por primera vez. Navegando en el sitio se encuentra con material para usar en el aula, así como una comunidad global de maestros innovadores con los que puede compartir ideas.
 
 3.  Abdullah, 24, runs a small nonprofit start-up aimed at helping kids learn to code. He's a member of Hive London and is searching for activities to keep the kids who come along to his weekend workshops engaged. Abdullah creates a few projects that he can promote to a wider audience through the Mozilla Webmaker site.
 
@@ -74,17 +74,31 @@ We live in a networked economy at a time of accelerating change. As Duke Univers
 
 **Mozilla’s work is underpinned by a philosophy that we learn best through doing and making.** While our work is underpinned by the works of academics in related fields, we’re interested in *practical action*. We’re focused upon encouraging people to become experienced in writing parts of the Web and participating in online communities. 
 
+
+> La idea del aprendizaje a través de la creación y el juego no es nueva, así como tampoco lo es nuestra creencia en caminos de aprendizaje basados en intereses. Estos conceptos son fundamentales para el trabajo de pensadores fundacionales como Froebel, Montessori, Dewey, Thorndike, Vygotsky, Papert and Csikszentmihalyi (entre muchos otros). Teorías del aprendizaje como el Constructivismo.
+
 Learning by making and tinkering is not a new idea, nor is our belief in interest-based pathways for learning. These concepts are fundamental to the work of foundational thinkers such as Froebel, Montessori, Dewey, Thorndike, Vygotsky, Papert and Csikszentmihalyi (amongst many others). Learning theories such as Constructivism
+
+>Estamos poniendo en acción estas teorías del aprendizaje por medio de las herramientas de Webmaking que estamos creando, y por medio del diseño del sistema de insignias que acompaña nuestro trabajo en este área. Empleando elementos de juegos mecánicos estamos creando secuencias de desafíos (premiados con insignias) basadas en intereses. Esto promueve estados de flujo por medio de metas claras y un feedback inmediato. En la sección que sigue puede encontrar más sobre este tema (**Webmaker badges**).
 
 We’re putting these learning theories into action through the Webmaker tools we’re creating and through the badge system design accompanying our work in this area. By employing elements of games mechanics we are creating interest-based pathways through a series of (badged) challenges. These promote flow states through clear goals and immediate feedback. More about this can be found in the **Webmaker badges** section below. 
 
+> ## ¿Qué son las alfabetizaciones web?
 ## What are Web literacies?
+
+
+> Actualemente estamos trabajando en definir las alfabetizaciones web como parte de nuestro trabajo en relación con Mozilla Webmaker. Entendemos que las alfabetizaciones web se componen de partes de alfabetizaciones digitales, alfabetizaciones en medios de comunicación, pensamiento computacional /algorítmico y ciencias de la computación. También estamos interesados en ideas emergentes y recientemente definidas, como "Alfabetizaciones Hacker" (Santo, 2012)
 
 **We’re currently working towards defining Web literacies as part of our work around Mozilla Webmaker.** We understand Web literacies to be comprised of parts of digital literacies, media literacies, computational/algorithmic thinking and computer science. We’re also interested in newly-defined and emerging areas such as 'Hacker Literacies' (Santo, 2012). 
 
 ![8122740067_7c4aac76bb_z.jpg][9]
 
 The purpose of this white paper is to define and contextualise what we mean by Web literacies - and to inform activities for people wanting to work towards gaining those literacies. It also serves as a reference point for those who want to help create a generation of Webmakers, people who can ‘write’ as well as ‘read’ the Web. 
+
+>El objetivo de este paper es definir y contextualizar a qué nos referimos con "Alfabetizaciones web", e informar a la gente que desea trabajar hacia la obtención de esas alfabetizaciones sobre distintas actividades.
+Vemos que existen tres pasos hacia la alfabetización web. Primero están las Habilidades Web, tales como realizar búsquedas y utilizar URLs apropiadamente. Se trata de habilidades en gran medida procedimentales, granulares y relativamente fáciles de alcanzar.
+**Competencias Web** es el segundo paso, alcanzado a través de la combinación de varias habilidades web relacionadas entre sí. Estos son paquetes de habilidades web vinculados con un propósito particular "evaluado" por la revisión de un par ¿¿¿¿¿novato??????. Algunas habilidades web pueden ser necesarias para más de una de las competencias web. Por ejemplo, identificar dónde tipear para buscar en un navegador en especial constituye un pre-requisito tanto para "Motores de búsqueda-nivel básico" y  "navegadores nivel básico"
+Finalmente, **Web Literacies** consiste en una serie de estas competencias web. Por ejemplo, "Motores de búsqueda-nivel básico" y  "navegadores nivel básico" y "mecánica web" se combinan para formar la insignia de la alfabetización web "Explorar"/"exploring". En suma, ase requiere cierta auto-reflexión aquí para darse cuenta de que ahora eres capaz de "explorar" en un nivel de principiantes.
 
 We see there being three steps to Web Literacies. First come **Web Skills** such as searching and using URLs appropriately. These are largely procedural, granular, and relatively easy to achieve. 
 
